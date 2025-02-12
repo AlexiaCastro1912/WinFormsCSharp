@@ -1,0 +1,10 @@
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\bin\Debug\03 Celsius a Fahrenheit.exe.config
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\bin\Debug\03 Celsius a Fahrenheit.exe
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\bin\Debug\03 Celsius a Fahrenheit.pdb
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\03 Celsius a Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\_03_Celsius_a_Fahrenheit.Form1.resources
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\_03_Celsius_a_Fahrenheit.Properties.Resources.resources
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\03 Celsius a Fahrenheit.csproj.GenerateResource.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\03 Celsius a Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\03 Celsius a Fahrenheit.exe
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\03 Celsius a Fahrenheit\obj\Debug\03 Celsius a Fahrenheit.pdb
