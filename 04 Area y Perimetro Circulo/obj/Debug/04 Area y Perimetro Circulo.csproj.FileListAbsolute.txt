@@ -1,0 +1,10 @@
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\bin\Debug\04 Area y Perimetro Circulo.exe.config
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\bin\Debug\04 Area y Perimetro Circulo.exe
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\bin\Debug\04 Area y Perimetro Circulo.pdb
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\04 Area y Perimetro Circulo.csproj.AssemblyReference.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\_04_Area_y_Perimetro_Circulo.frmIndex.resources
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\_04_Area_y_Perimetro_Circulo.Properties.Resources.resources
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\04 Area y Perimetro Circulo.csproj.GenerateResource.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\04 Area y Perimetro Circulo.csproj.CoreCompileInputs.cache
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\04 Area y Perimetro Circulo.exe
+C:\Users\HaruGiru\Desktop\Clases\05 Programacion IV\Programas\04 Area y Perimetro Circulo\obj\Debug\04 Area y Perimetro Circulo.pdb
