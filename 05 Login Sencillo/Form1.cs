@@ -26,7 +26,7 @@ namespace _05_Login_Sencillo
             {
                 frmIndex Index = new frmIndex(); //Creamos una instancia al formulario que queremos abrir (objeto)
                 Index.Show(); //Mostramos Formulario Index de Accesor
-                this.Hide(); //Ocultamos formulario actual
+                //this.Hide(); //Ocultamos formulario actual
             }
             else
             {
